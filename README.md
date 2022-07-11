@@ -1,4 +1,4 @@
-# Belgian and Dutch phonnumbers #
+# Belgian and Dutch phonenumbers #
 
 
 
